@@ -1,0 +1,6 @@
+C:\DevFolder\RefValPointerDifference\CSharp\RefValPionter\RefValPionter\bin\Debug\RefValPionter.exe.config
+C:\DevFolder\RefValPointerDifference\CSharp\RefValPionter\RefValPionter\bin\Debug\RefValPionter.exe
+C:\DevFolder\RefValPointerDifference\CSharp\RefValPionter\RefValPionter\bin\Debug\RefValPionter.pdb
+C:\DevFolder\RefValPointerDifference\CSharp\RefValPionter\RefValPionter\obj\Debug\RefValPionter.csprojResolveAssemblyReference.cache
+C:\DevFolder\RefValPointerDifference\CSharp\RefValPionter\RefValPionter\obj\Debug\RefValPionter.exe
+C:\DevFolder\RefValPointerDifference\CSharp\RefValPionter\RefValPionter\obj\Debug\RefValPionter.pdb
